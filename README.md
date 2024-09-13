@@ -19,7 +19,7 @@ This is a Node.js and Express backend project that facilitates moonshot swap tra
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dappsol/moonshot-swap.git
+   git clone https://github.com/xnegai/moonshot-swap.git
    cd moonshot-swap
    ```
 
@@ -59,9 +59,3 @@ To create a transaction, use the following parameters:
 - `amount`: When buying, input SOL amount; when selling, omit this value.
 - `tradeDirection`: Use `"BUY"` for buying and `"SELL"` for selling.
 - `slippageBps`: Default is `100` and can be omitted.
-
-## Contact
-If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
-
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
